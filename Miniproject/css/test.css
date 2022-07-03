@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    background: #333332;
+
+}
+body{
+    background: white;
+    color: #332322;
+    height: 1000px;
+    width: 800px;
+    margin: 0 auto;
+    font-family: roboto;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 50px;
+}
+h1 small{
+    font-weight: normal;
+    color: red;
+    display: block;
+}
+
+#status{
+    padding: 10px;
+    color: #3D5258;
+}
+div{
+    padding: 5px;
+
+}
+#board h3{
+    padding: 5px;
+    color: blue;
+}
+label{
+    display: block;
+    padding: 5px;
+}
+button{
+    padding: 10px;
+    margin-top: 10px;
+    color: white;
+    border: none;
+    background: #332322;
+    font-size: 15px;
+}
+button:hover{
+    background: #333332;
+}
